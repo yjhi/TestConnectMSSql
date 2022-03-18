@@ -1,0 +1,9 @@
+{
+  "Sql": "Select count(*) from tb_o_sale",
+  "IP": "192.168.0.254",
+  "Port": "1433",
+  "User": "sa",
+  "Pass": "afarsoft",
+  "Db": "Afarbuyv4_zb",
+  "Time": "0 */5 8-10 * * ?"
+}
